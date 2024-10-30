@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp_Chess_Nico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd7b25bb60ccfc9b470dfdf707c02471ca62d14b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+971c7a64c5e2ca104e35e242c0c1ae7815d2c6fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp_Chess_Nico")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp_Chess_Nico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+E:\Github\Chess_CSharp\CSharp_Chess_Nico\obj\Debug\net8.0\CSharp_Chess_Nico.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\Chess_CSharp\CSharp_Chess_Nico\obj\Debug\net8.0\CSharp_Chess_Nico.AssemblyInfoInputs.cache
+E:\Github\Chess_CSharp\CSharp_Chess_Nico\obj\Debug\net8.0\CSharp_Chess_Nico.AssemblyInfo.cs
+E:\Github\Chess_CSharp\CSharp_Chess_Nico\obj\Debug\net8.0\CSharp_Chess_Nico.csproj.CoreCompileInputs.cache
+E:\Github\Chess_CSharp\CSharp_Chess_Nico\obj\Debug\net8.0\CSharp_Chess_Nico.sourcelink.json
+E:\Github\Chess_CSharp\CSharp_Chess_Nico\bin\Debug\net8.0\CSharp_Chess_Nico.exe
+E:\Github\Chess_CSharp\CSharp_Chess_Nico\bin\Debug\net8.0\CSharp_Chess_Nico.deps.json
+E:\Github\Chess_CSharp\CSharp_Chess_Nico\bin\Debug\net8.0\CSharp_Chess_Nico.runtimeconfig.json
+E:\Github\Chess_CSharp\CSharp_Chess_Nico\bin\Debug\net8.0\CSharp_Chess_Nico.dll
+E:\Github\Chess_CSharp\CSharp_Chess_Nico\bin\Debug\net8.0\CSharp_Chess_Nico.pdb
+E:\Github\Chess_CSharp\CSharp_Chess_Nico\obj\Debug\net8.0\CSharp_Chess_Nico.dll
+E:\Github\Chess_CSharp\CSharp_Chess_Nico\obj\Debug\net8.0\refint\CSharp_Chess_Nico.dll
+E:\Github\Chess_CSharp\CSharp_Chess_Nico\obj\Debug\net8.0\CSharp_Chess_Nico.pdb
+E:\Github\Chess_CSharp\CSharp_Chess_Nico\obj\Debug\net8.0\CSharp_Chess_Nico.genruntimeconfig.cache
+E:\Github\Chess_CSharp\CSharp_Chess_Nico\obj\Debug\net8.0\ref\CSharp_Chess_Nico.dll
